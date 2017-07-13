@@ -1,0 +1,18 @@
+PODS:
+  - Freddy (3.0.0)
+  - Gloss (1.2.4)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Freddy
+  - Gloss (~> 1.2)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Freddy: 367f994c88a90dd3987293b4b1bec94a4530745a
+  Gloss: 4e036074610fdb993abcb958ebcd7332588e2333
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: e793a560179932194a7cc56c60be064998f04474
+
+COCOAPODS: 1.2.1
